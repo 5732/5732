@@ -65,7 +65,7 @@ p {
 }
 
 .homepf {
-  margin: 40px 0px 40px 160px;
+  margin: 40px 0px 40px 0px;
   border: 7.5px solid white;
   border-radius: 90px;
   max-width: 25%;
