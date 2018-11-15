@@ -3,6 +3,7 @@
 body {
     font-family: josefin sans;
     text-align: center; 
+    margin-left: 160px;
 }
 
 .sidenav {
@@ -57,6 +58,11 @@ p {
     margin-top: -15px;
     color: #00000;
     padding: 0px;
+}
+
+.paragraaf1 {
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .homepf {
