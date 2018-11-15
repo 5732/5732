@@ -49,32 +49,12 @@ h1 {
     padding: 0px 0px;
 }
 
-.second {
+p {
     text-align: center;
     font-family: josefin sans;
     font-size: 20px;
     margin-left: 160px;
     margin-top: -15px;
-    color: #00000;
-    padding: 0px;
-}
-
-.third {
-	text-align: center;
-    font-family: josefin sans;
-    font-size: 20px;
-    margin-left: 160px;
-    margin-top: 40px;
-    color: #00000;
-    padding: 0px;
-}
-
-.fourth {
-		text-align: center;
-    font-family: josefin sans;
-    font-size: 20px;
-    margin-left: 160px;
-    margin-top: 40px;
     color: #00000;
     padding: 0px;
 }
