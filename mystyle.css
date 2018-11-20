@@ -71,6 +71,10 @@ p {
   max-width: 25%;
 
 }
+
+.timskat {
+  max-width: 25%;
+}
     
 
 @media screen and (max-height: 450px) {
