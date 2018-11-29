@@ -4,7 +4,7 @@ body {
     font-family: josefin sans;
     text-align: center; 
     margin-left: 160px;
-    background-color: rgba(201, 76, 76, 0.3);
+    background-color: #000000;
 }
 
 .sidenav {
@@ -79,12 +79,7 @@ p {
   max-width: 25%;
 }
  
-.vogelsmain {
-  height: 100%;
-  margin-left: 10%;
-  margin-right: 10%;
-  background-color: white;
-}
+
 
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
