@@ -90,8 +90,9 @@ p {
 }
  
 .cat1 {
-    width: 600px;
-    height: 100%;
+   float: right;
+}
+    
     
 
 @media screen and (max-height: 450px) {
