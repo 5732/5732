@@ -71,8 +71,8 @@ p {
 }
 
 .paragraaf1 {
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .homepf {
@@ -90,7 +90,9 @@ p {
 }
  
 .cat1 {
-    margin-top: 40px
+    width: 600px;
+    height: 100%;
+    
 
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
