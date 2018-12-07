@@ -103,9 +103,10 @@ p {
    max-width: 50%;
 }
 
-.vis {
+.vis1 {
    float: right;
-   max-width: 50%;
+   max-width: 300px;
+    max-height: 300px;
 }
     
 .bird1 {
