@@ -100,18 +100,19 @@ p {
  
 .cat1 {
    float: right;
-   max-width: 50%;
+   width: 50%;
 }
 
 .vis1 {
    float: right;
-   max-width: 50%;
-   
+   max-width: 300px;
+    max-height: 300px;
 }
     
 .bird1 {
    float: left;
-   max-width: 50%;
+   width: 100px;
+   height: 100px;
 }
     
 
