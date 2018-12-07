@@ -103,12 +103,15 @@ p {
    max-width: 50%;
 }
 
-.vis1 {
+.vis {
    float: right;
-    max-height: 300px;
-   max-width: 300px;
+   max-width: 50%;
 }
     
+.bird1 {
+   float: left;
+   max-width: 50%;
+}
     
 
 @media screen and (max-height: 450px) {
