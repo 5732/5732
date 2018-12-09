@@ -111,8 +111,8 @@ p {
     
 .bird1 {
    float: left;
-   width: 100px;
-   height: 100px;
+   max-widthwidth: 300px;
+   max-height: 300px;
 }
     
 
