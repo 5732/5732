@@ -95,9 +95,15 @@ p {
 .timskat {
   margin: 40px 0px 40px 0px;
   border-radius: 90px;
-  max-width: 25%;
+  max-width: 50%;
 }
  
+.janikskat {
+  margin: 40px 0px 40px 0px;
+  border-radius: 90px;
+  max-width: 50%;
+}
+    
 .cat1 {
    float: right;
    width: 50%;
