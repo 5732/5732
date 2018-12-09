@@ -113,12 +113,16 @@ p {
    float: left;
    max-width: 300px;
    max-height: 300px;
+   margin-right: 10px;
+   margin-bottom: 10px;
 }
 
 .bird2 {
    float: right;
    max-width: 300px;
    max-height: 300px;
+   margin-left: 10px;
+   margin-bottom: 10px;
 }
 
 .bird3 {
