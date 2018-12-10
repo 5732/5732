@@ -4,7 +4,7 @@ body {
     font-family: josefin sans;
     text-align: center; 
     margin-left: 160px;
-    background-color: #A5B2C3;
+    background-color: #111211;
     
 }
 
@@ -109,7 +109,7 @@ p {
 .cat1 {
    position: relative;
    width: 50%;
-   margin-bottom: 10px;
+   margin-bottom: 20px;
 }
 
 .cat2 {
