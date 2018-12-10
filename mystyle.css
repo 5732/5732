@@ -109,6 +109,7 @@ p {
 .cat1 {
    position: relative;
    width: 50%;
+   margin-bottom: 10px;
 }
 
 .cat2 {
