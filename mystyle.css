@@ -107,7 +107,7 @@ p {
 }
     
 .cat1 {
-   float: right;
+   position: relative;
    width: 50%;
 }
 
