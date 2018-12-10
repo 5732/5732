@@ -129,6 +129,10 @@ table, th, td {
 th, td {
   padding: 5px;
 }
+table {
+    border-spacing: 5px;
+}
+
 th {
   text-align: left;
 }
