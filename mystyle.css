@@ -122,6 +122,17 @@ p {
    max-height: 50%;
 }
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+}
+
 .vis1 {
    float: right;
    max-width: 300px;
@@ -167,7 +178,7 @@ p {
   margin: auto;
 }
 
-/* Next & previous buttons */
+
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -183,7 +194,7 @@ p {
   user-select: none;
 }
 
-/* Position the "next button" to the right */
+
 .next {
   right: 0;
   border-radius: 0 3px 3px 0;
@@ -194,7 +205,6 @@ p {
   border-radius:  0 3px 3px 0;
 }
 
-/* On hover, add a grey background color */
 .prev:hover, .next:hover {
   background-color: #f1f1f1;
   color: black;
